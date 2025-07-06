@@ -9,7 +9,7 @@ This project contains SQL queries used to analyze order and shipping data for Ku
 
 ## Files Included
 - DSA capstone -  https://github.com/Benedicta2003/KMS-SQL-Analysis/blob/main/DSA%20Data%20Analysis%20Capstone%20Project.pdf
-- `queries.sql` – All SQL queries used for analysis  
+- `queries.sql` – All SQL queries used for analysis  https://github.com/Benedicta2003/KMS-SQL-Analysis/blob/main/DSA%20SQL%20PROJECT%20QUERY.sql
 
 ## Tools Used
 - SQL Server
