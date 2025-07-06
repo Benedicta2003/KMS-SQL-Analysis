@@ -1,19 +1,23 @@
 
-# Kultra Mega Stores SQL Analysis 
-This project contains SQL queries used to analyze the inventory and sales performance of Kultra Mega Stores as part of a Data Analysis Capstone.
+# Kultra Mega Stores SQL Analysis
+This project contains SQL queries used to analyze order and shipping data for Kultra Mega Stores.
 
-##  Key Questions Answered:
-- Product with highest sales
-- Top 3 and Bottom 3 regions by sales
-- Total sales of appliance in Ontario 
-- Most valuable customers
-- Small business with highest sales
-- Corporate customer withthe most numbers of orders in 2009-2012
-- Most profitable consumer customer
+## Objectives
+- Analyze sales, shipping costs, and returns
+- Find top-performing categories and regions
+- Understand inefficiencies in logistics
 
+## Files Included
+- DSA capstone 
+- `queries.sql` – All SQL queries used for analysis
 
-## Tools Use
-- SQL (SSMS)
+## Tools Used
+- SQL Server
+  
+
+---
+
+Created as part of the DSA Capstone Project.
 
 ## File Description
 - `kultra_ksa_analysis.sql`: All SQL queries written for the project  https://github.com/Benedicta2003/KMS-SQL-Analysis/blob/main/DSA%20SQL%20PROJECT%20QUERY.sql
