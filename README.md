@@ -16,4 +16,4 @@ This project contains SQL queries used to analyze the inventory and sales perfor
 - SQL (SSMS)
 
 ## File Description
-- `kultra_ksa_analysis.sql`: All SQL queries written for the project
+- `kultra_ksa_analysis.sql`: All SQL queries written for the project  https://github.com/Benedicta2003/KMS-SQL-Analysis/blob/main/DSA%20SQL%20PROJECT%20QUERY.sql
